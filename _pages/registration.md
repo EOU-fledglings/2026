@@ -13,4 +13,5 @@ You can pre-register using the link below:
 Pre-registration helps us estimate the number of participants, prepare the budget, and plan practical details such as catering (including vegetarian and vegan options).
 Your early input is a great help for the organizing committee — thank you for taking a few minutes to fill it in!
 
-**Registration will open soon, and those who pre-register will be the first to receive the official registration link!**
+**Registration and abstract submission will open soon!**
+Those who pre-register will be the first to receive the official registration and abstract submission links.
