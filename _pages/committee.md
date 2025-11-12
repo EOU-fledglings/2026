@@ -18,7 +18,7 @@ permalink: /committee/
 - Justyna Płóciennik (University of Wrocław)  
 - Martyna Syposz (University of Gdańsk)
 
----
+
 
 📧 You can contact us with any questions or queries about conference at:  
 **[eoufledglingmeeting@gmail.com](mailto:eoufledglingmeeting@gmail.com)**
