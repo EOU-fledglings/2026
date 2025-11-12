@@ -3,11 +3,19 @@
 
 @import "minima";
 
-/* === Override Minima's narrow wrapper === */
+/* === Layout Width === */
 .wrapper {
-  max-width: 1200px;   /* was 800px */
+  max-width: 1200px; /* was 800px */
   margin-left: auto;
   margin-right: auto;
+}
+
+/* === HEADER / BANNER === */
+.site-header {
+  background-color: #004b8d; /* EOU blue */
+  border-bottom: 4px solid #003366;
+  padding: 1rem 0;
+  margin-bottom: 1.5rem;
 }
 
 /* === Header layout tweaks === */
@@ -18,31 +26,82 @@
   flex-wrap: wrap;
 }
 
-/* Logo sizing */
+/* === Logo sizing === */
 .site-header img {
   height: 80px;
   width: auto;
   margin-right: 25px;
 }
 
-/* Navigation adjustments */
+/* === NAVIGATION === */
 .site-nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
   margin-top: 0.5rem;
+  gap: 10px;
 }
 
 .site-nav .page-link {
-  padding: 0 12px;
+  color: #004b8d;
+  background-color: #ffffff;
+  border-radius: 6px;
+  padding: 8px 14px;
   font-size: 1rem;
-  font-weight: 500;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.site-nav .page-link:hover {
+  background-color: #004b8d;
+  color: #ffffff;
+}
+
+/* === SITE TITLE === */
+.site-title, .site-title:visited {
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 1.3rem;
   text-decoration: none;
 }
 
-/* Header spacing + divider */
-.site-header {
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.6rem;
-  margin-bottom: 1.2rem;
+/* === BODY === */
+body {
+  background-color: #f8fafc; /* light blue-gray background */
+  color: #1b1b1b;
+}
+
+/* === FOOTER === */
+.site-footer {
+  background-color: #004b8d;
+  color: #ffffff;
+  text-align: center;
+  padding: 1.5rem 0;
+  border-top: 4px solid #003366;
+}
+
+.site-footer a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.site-footer a:hover {
+  color: #cce3ff;
+}
+
+/* === Responsive tweaks === */
+@media (max-width: 768px) {
+  .site-nav {
+    justify-content: center;
+  }
+
+  .site-nav .page-link {
+    margin-bottom: 8px;
+  }
+
+  .site-header img {
+    height: 60px;
+  }
 }
