@@ -1,0 +1,94 @@
+# =======================================
+#  EOU Fledglings 2026 — Site Configuration
+# =======================================
+
+title: "5th EOU Fledglings Meeting"
+description: "European Ornithologists' Union | Gdańsk, 27–29 March 2026"
+author: "EOU Fledglings Committee"
+email: eoufledglingmeeting@gmail.com
+
+# ------------------------------------------------
+# URL Settings — update 'url' with your GitHub username
+# ------------------------------------------------
+url: "https://martysyposz.github.io"   # your GitHub Pages domain
+baseurl: "/EOU-fledglings-2026"       # name of your repository
+
+# ------------------------------------------------
+# Theme & Plugins
+# ------------------------------------------------
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ------------------------------------------------
+# Build Settings
+# ------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# ------------------------------------------------
+# Navigation
+# ------------------------------------------------
+# You define your menu in _data/navigation.yml
+# Example:
+# - name: Home
+#   link: /
+# - name: Registration
+#   link: /registration/
+# - name: Programme
+#   link: /programme/
+# - name: Travel Info
+#   link: /travel/
+# - name: Committee
+#   link: /committee/
+
+# ------------------------------------------------
+# Collections
+# ------------------------------------------------
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# ------------------------------------------------
+# Social Links (appear in footer)
+# ------------------------------------------------
+social_links:
+  email: eoufledglingmeeting@gmail.com
+  twitter: https://twitter.com/EOUnion
+  website: https://www.eou.eu/
+
+# ------------------------------------------------
+# Appearance
+# ------------------------------------------------
+show_excerpts: false
+header_pages:
+  - _pages/registration.md
+  - _pages/programme.md
+  - _pages/travel.md
+  - _pages/committee.md
+
+# ------------------------------------------------
+# Defaults
+# ------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# ------------------------------------------------
+# Optional: Google Analytics or custom domain
+# ------------------------------------------------
+# google_analytics: G-XXXXXXXXXX
+# domain: fledglings2026.eou.eu
