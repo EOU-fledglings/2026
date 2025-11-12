@@ -12,7 +12,8 @@ email: eoufledglingmeeting@gmail.com
 # ------------------------------------------------
 url: "https://eou-fledglings.github.io"   # organisation/site root
 baseurl: "/2026"                          # repository or project folder name
-
+include:
+  - _pages
 # ------------------------------------------------
 # Theme & Plugins
 # ------------------------------------------------
