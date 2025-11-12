@@ -6,19 +6,15 @@ permalink: /useful-info/
 
 # Useful Information for Visitors to Poland
 
----
-
-## Payments
+## 💳 Payments
 Poland uses its national currency, the **Polish Złoty (PLN)**.  
 The vast majority of places **accept card payments**, but it’s always wise to have a small amount of **cash** for smaller shops or rural areas.  
 
----
 
 ## 💸 Tipping
 Service is usually **included in the bill** in restaurants and bars, but **leaving a tip is customary**.  
 If you are satisfied with the service, we recommend leaving around **10%**.
 
----
 
 ## 🛍️ Shopping in Poland
 Shops in Poland are generally open **Monday to Saturday**, and many are also open on **trading Sundays** (usually one or two per month).  
@@ -30,7 +26,6 @@ Opening hours vary slightly depending on the type of shop:
 
 On **non-trading Sundays**, only certain places remain open (such as restaurants, gas stations, bakeries, or small owner-operated stores).
 
----
 
 ## 🗣️ Useful Polish Phrases
 
@@ -50,7 +45,6 @@ On **non-trading Sundays**, only certain places remain open (such as restaurants
 | Do you speak English? | Czy mówisz po angielsku? |
 | I don’t speak Polish | Nie mówię po polsku |
 
----
 
 ## 🚨 Emergency Numbers
 
@@ -64,10 +58,8 @@ On **non-trading Sundays**, only certain places remain open (such as restaurants
 
 💡 You can also call **112** for any emergency — operators can assist you in **English and Polish**.
 
----
 
-## Safety
+## 🛡️ Safety
 Like most Polish cities, **Gdańsk is very safe**.  
 The risk of violent crime is low, but be cautious about **scams** and **pickpocketing** in crowded tourist areas such as the Old Town.  
 
----
