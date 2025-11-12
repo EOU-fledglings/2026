@@ -9,7 +9,6 @@ permalink: /programme/
 The detailed programme will be available soon!  
 Stay tuned for updates.
 
----
 
 ## Follow us on social media
 
