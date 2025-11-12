@@ -1,45 +1,89 @@
 ---
-# Custom layout extending Minima
+# Custom layout — no Minima dependency
 ---
 
-{% include head.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<body>
+    <title>{{ page.title }} | 5th EOU Fledglings Meeting</title>
+    <meta name="description" content="{{ site.description }}">
 
-<header class="site-header" role="banner" style="width: 100%;">
-  <div style="
-        max-width: 1200px;
-        margin: 0 auto;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        flex-wrap: wrap;
-        padding: 0 2rem;
-    ">
-    <!-- 🪶 Conference logo -->
-    <a href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/image/EOU26_logo.png' | relative_url }}" 
-           alt="EOU Fledglings 2026 logo"
-           style="height: 280px; width: auto; margin-right: 20px;">
-    </a>
+    <!-- ✅ Link your custom stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-    <!-- Site title and navigation -->
-    <div style="flex: 1;">
-      {% include header.html %}
-    </div>
-  </div>
-</header>
+    <!-- Favicon (optional) -->
+    <link rel="icon" href="{{ '/assets/image/EOU26_logo.png' | relative_url }}" type="image/png">
+  </head>
 
+  <body>
 
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      {{ content }}
-    </div>
-  </main>
+    <!-- ===== HEADER ===== -->
+    <header class="site-header" role="banner" style="width: 100%;">
+      <div style="
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            padding: 0 2rem;
+        ">
+        <!-- 🪶 Conference logo -->
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/image/EOU26_logo.png' | relative_url }}" 
+               alt="EOU Fledglings 2026 logo"
+               style="height: 120px; width: auto; margin-right: 20px;">
+        </a>
 
-  <footer class="site-footer" role="contentinfo">
-    {% include footer.html %}
-  </footer>
+        <!-- Site title and navigation -->
+        <div style="flex: 1;">
+          {% include header.html %}
+        </div>
+      </div>
+    </header>
 
-</body>
+    <!-- ===== MAIN CONTENT ===== -->
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <!-- ===== FOOTER ===== -->
+    <footer class="site-footer" role="contentinfo" style="width: 100%;">
+      <div style="
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            padding: 1rem 2rem;
+        ">
+        <!-- Logo on the left -->
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/image/EOU26_logo.png' | relative_url }}" 
+               alt="EOU Fledglings 2026 logo footer"
+               style="height: 80px; width: auto;">
+        </a>
+
+        <!-- Footer text on the right -->
+        <div style="text-align: right; color: white; font-size: 0.9rem;">
+          <p>
+            © {{ "now" | date: "%Y" }} European Ornithologists' Union Fledglings Committee<br>
+            Gdańsk, Poland · 27–29 March 2026
+          </p>
+          <p>
+            <a href="mailto:eoufledglingmeeting@gmail.com" style="color: white; text-decoration: underline;">
+              eoufledglingmeeting@gmail.com
+            </a>
+          </p>
+        </div>
+      </div>
+    </footer>
+
+  </body>
 </html>
