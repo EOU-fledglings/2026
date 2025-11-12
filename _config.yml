@@ -10,7 +10,7 @@ include:
   - _pages
   
 header_pages:
-  - index.md
+  - _pages/index.md
   - _pages/registration.md
   - _pages/travel.md
   - _pages/committee.md
