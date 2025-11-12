@@ -11,11 +11,11 @@ include:
   
 header_pages:
   - index.md
-  - _pages/programme.md
   - _pages/registration.md
   - _pages/travel.md
   - _pages/Interesting_spots.md
   - _pages/committee.md
+  - _pages/programme.md
   
 theme: minima
 plugins:
