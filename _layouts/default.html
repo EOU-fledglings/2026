@@ -18,10 +18,10 @@
     <link rel="icon" href="{{ '/assets/image/EOU26_logo.png' | relative_url }}" type="image/png">
   </head>
 
-  <body>
+  <body style="margin: 0; font-family: system-ui, sans-serif;">
 
     <!-- ===== HEADER ===== -->
-    <header class="site-header" role="banner" style="width: 100%;">
+    <header class="site-header" role="banner" style="width: 100%; background-color: #87A9D5; color: white;">
       <div style="
             max-width: 1200px;
             margin: 0 auto;
@@ -35,7 +35,7 @@
         <a href="{{ '/' | relative_url }}">
           <img src="{{ '/assets/image/EOU26_logo.png' | relative_url }}" 
                alt="EOU Fledglings 2026 logo"
-               style="height: 120px; width: auto; margin-right: 20px;">
+               style="height: 160px; width: auto; margin-right: 20px;">
         </a>
 
         <!-- Site title and navigation -->
@@ -45,15 +45,28 @@
       </div>
     </header>
 
+    <!-- ===== BLUE BANNER ===== -->
+    <section style="
+      background-color: #004b8d;
+      color: white;
+      text-align: center;
+      padding: 1rem 0;
+      font-size: 1.2rem;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    ">
+      5th EOU Fledglings Meeting · Gdańsk, 27–29 March 2026
+    </section>
+
     <!-- ===== MAIN CONTENT ===== -->
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+      <div class="wrapper" style="max-width: 1200px; margin: 2rem auto; padding: 0 1.5rem;">
         {{ content }}
       </div>
     </main>
 
     <!-- ===== FOOTER ===== -->
-    <footer class="site-footer" role="contentinfo" style="width: 100%;">
+    <footer class="site-footer" role="contentinfo" style="width: 100%; background-color: #87A9D5; color: white;">
       <div style="
             max-width: 1200px;
             margin: 0 auto;
@@ -67,11 +80,11 @@
         <a href="{{ '/' | relative_url }}">
           <img src="{{ '/assets/image/EOU26_logo.png' | relative_url }}" 
                alt="EOU Fledglings 2026 logo footer"
-               style="height: 80px; width: auto;">
+               style="height: 120px; width: auto;">
         </a>
 
         <!-- Footer text on the right -->
-        <div style="text-align: right; color: white; font-size: 0.9rem;">
+        <div style="text-align: right; font-size: 0.9rem;">
           <p>
             © {{ "now" | date: "%Y" }} European Ornithologists' Union Fledglings Committee<br>
             Gdańsk, Poland · 27–29 March 2026
