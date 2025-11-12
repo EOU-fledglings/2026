@@ -24,7 +24,7 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
 
 <div align="center">
 
-## Welcome from the EOU President
+Welcome from the EOU President
 
 </div>
 
