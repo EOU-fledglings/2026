@@ -33,30 +33,24 @@
   margin-right: 25px;
 }
 
-/* === NAVIGATION === */
+/* Navigation links — white, no boxes */
 .site-nav {
   display: flex;
-  flex-wrap: wrap;
+  gap: 20px;
   justify-content: flex-end;
-  margin-top: 0.5rem;
-  gap: 10px;
 }
 
 .site-nav .page-link {
-  color: #004b8d;
-  background-color: #ffffff;
-  border-radius: 6px;
-  padding: 8px 14px;
-  font-size: 1rem;
-  font-weight: 600;
+  color: white !important;
   text-decoration: none;
-  transition: background 0.2s ease, color 0.2s ease;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  font-weight: 600;
+  font-size: 1rem;
+  transition: opacity 0.2s ease;
 }
 
 .site-nav .page-link:hover {
-  background-color: #004b8d;
-  color: #ffffff;
+  opacity: 0.8;
+  text-decoration: underline;
 }
 
 /* === SITE TITLE === */
