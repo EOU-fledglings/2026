@@ -4,7 +4,11 @@ title: Home
 permalink: /
 ---
 
-# 5th EOU Fledglings Meeting  
+<p align="center">
+  <img src="{{ '/assets/image/EOU26_flyer.png' | relative_url }}" 
+       alt="EOU Fledglings 2026 banner" 
+       style="max-width: 100%; border-radius: 10px; box-shadow: 0 3px 8px rgba(0,0,0,0.2); margin-bottom: 30px;">
+</p> 
 ### Gdańsk, 27–29 March 2026  
 
 The meeting is aimed at early-career researchers — those who are young in their research career rather than years!  
