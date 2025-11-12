@@ -1,0 +1,31 @@
+---
+# Custom default layout extending Minima's original
+---
+
+{% include head.html %}
+
+<body>
+
+  <header class="site-header" role="banner">
+    {% include header.html %}
+  </header>
+
+  <!-- 🎉 Conference banner added here -->
+  <div style="text-align:center; margin: 0 0 2rem 0;">
+    <img src="{{ '/assets/image/EOU26_flyer.png' | relative_url }}" 
+         alt="EOU Fledglings 2026 banner"
+         style="max-width: 100%; border-radius: 10px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);">
+  </div>
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    {% include footer.html %}
+  </footer>
+
+</body>
+</html>
