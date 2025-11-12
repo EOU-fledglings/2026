@@ -32,7 +32,7 @@ Ticket price: 4.80 PLN (€1.09)
 
 A **taxi** from the airport to the city centre costs around 40–60 PLN (approx. €9-14), depending on the time of day and traffic. Ride-hailing services like Bolt, FreeNow, and Uber are also available.
 
-
+---
 ## How to move around Gdańsk and nearby cities
 
 ### By bike
@@ -70,6 +70,7 @@ Both Gdańsk and Gdynia have extensive bus networks, but they are operated by co
 - 24-hour - 22.00 PLN (€5.00)
 Sopot is operated by both systems, but most lines here belong to Gdynia’s public transport company. You can tell them apart by colors: Gdańsk buses are red-and-beige, while those from Gdynia are blue-and-white.
 
+---
 ## Additional information
 
 ### Payments
