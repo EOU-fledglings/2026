@@ -16,6 +16,8 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
 ---
 
 ## Welcome from the EOU President
-
-![EOU President Welcome]( {{ "/assets/image/president_welcome.png" | relative_url }} )
-
+<p align="center">
+  <img src="{{ '/assets/image/president_welcome.png' | relative_url }}" 
+       alt="EOU President Péter László Pap" 
+       style="max-width: 90%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+</p>
