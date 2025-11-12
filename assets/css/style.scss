@@ -3,47 +3,46 @@
 
 @import "minima";
 
-/* --- Custom conference layout tweaks --- */
+/* === Override Minima's narrow wrapper === */
+.wrapper {
+  max-width: 1200px;   /* was 800px */
+  margin-left: auto;
+  margin-right: auto;
+}
 
-/* Make header wider and allow flexible layout */
+/* === Header layout tweaks === */
 .site-header .wrapper {
-  max-width: 1100px; /* default 800px in Minima */
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-/* Ensure logo and title align nicely */
+/* Logo sizing */
 .site-header img {
-  height: 70px;
+  height: 80px;
   width: auto;
-  margin-right: 20px;
+  margin-right: 25px;
 }
 
-/* Make navigation horizontal and evenly spaced */
-.site-nav .page-link {
-  padding: 0 10px;
-  font-weight: 500;
-  font-size: 0.95rem;
-}
-
-/* Allow navigation to wrap elegantly if needed */
+/* Navigation adjustments */
 .site-nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
+  margin-top: 0.5rem;
 }
 
-/* Add a subtle border under header */
+.site-nav .page-link {
+  padding: 0 12px;
+  font-size: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+/* Header spacing + divider */
 .site-header {
   border-bottom: 1px solid #ddd;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
-}
-
-/* Adjust title spacing */
-.site-title {
-  font-size: 1.4rem;
-  margin-bottom: 0.2rem;
+  padding-bottom: 0.6rem;
+  margin-bottom: 1.2rem;
 }
