@@ -33,13 +33,13 @@ Ticket price: 4.80 PLN (€1.09)
 A **taxi** from the airport to the city centre costs around 40–60 PLN (approx. €9-14), depending on the time of day and traffic. Ride-hailing services like Bolt, FreeNow, and Uber are also available.
 
 
-# How to move around Gdańsk and nearby cities
+## How to move around Gdańsk and nearby cities
 
-## By bike
+### By bike
 In Tricity, there is a bicycle system called **MEVO**. To use it, you need to download the app. It is fantastic! Higlhy recommended!
 With it, you can find the closest bike and scan the QR code to start. After the ride, leave the bike at one of **the stations and pay via app**. 
 
-## By tram
+### By tram
 The closest tram stops to the Campus are **Uniwersytet Gdański**, operated by lines **5, 6 and 12**.
 You can buy tickets in **JakDojade**.
 Ticket prices:
@@ -47,7 +47,7 @@ Ticket prices:
 - 24-hour - 22.00 PLN (€5.00)
 
 
-## By train
+### By train
 
 There are 2 railway system in Gdańsk and nearby cities:
 **Rapid City Railway (SKM)** - connects Gdańsk Główny with Gdańsk Wrzeszcz, Sopot and Gdynia
@@ -58,7 +58,7 @@ The price depends on the distance covered.
 You can buy tickets in ticket machines or via apps, like **JakDojade, Skycash and KOLEO**.
 
 
-## By bus
+### By bus
 The closest bus stops to the Campus are:
 - **Biblioteka Główna UG** - operated by **149** and **199**;
 - **Uniwersytet Gdański** - operated by **149**.
@@ -70,12 +70,12 @@ Both Gdańsk and Gdynia have extensive bus networks, but they are operated by co
 - 24-hour - 22.00 PLN (€5.00)
 Sopot is operated by both systems, but most lines here belong to Gdynia’s public transport company. You can tell them apart by colors: Gdańsk buses are red-and-beige, while those from Gdynia are blue-and-white.
 
-# Additional information
+## Additional information
 
-## Payments
+### Payments
 Poland uses its national currency, the **polish Złoty (PLN)**.
 The overwhelming majority of stores and other facilities **accept cards**, but it is still reasonable to have some amount of **cash**, just in case.
 
-## Safety
+### Safety
 Like most cities in Poland, Gdańsk is generally very safe. Especially, the risk of violent crimes is very low. However, you should be more wary of possible **scams**, as well as **pickpocketers** in more crowded areas, like the Old Town.
 
