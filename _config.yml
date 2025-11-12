@@ -1,58 +1,40 @@
-# =======================================
-#  EOU Fledglings 2026 — Site Configuration
-# =======================================
-
 title: "5th EOU Fledglings Meeting"
 description: "European Ornithologists' Union | Gdańsk, 27–29 March 2026"
 author: "EOU Fledglings Committee"
 email: eoufledglingmeeting@gmail.com
 
-# ------------------------------------------------
-# URL Settings — must match your GitHub Pages site
-# ------------------------------------------------
-url: "https://eou-fledglings.github.io"   # organisation/site root
-baseurl: "/2026"                          # repository or project folder name
+url: "https://eou-fledglings.github.io"
+baseurl: "/2026"
+
 include:
   - _pages
-# ------------------------------------------------
-# Theme & Plugins
-# ------------------------------------------------
+
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# ------------------------------------------------
-# Build Settings
-# ------------------------------------------------
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 
-# ------------------------------------------------
-# Navigation
-# ------------------------------------------------
-# Defined in _data/navigation.yml
-# Example:
-# - name: Home
-#   link: /
-# - name: Registration
-#   link: /registration/
-# - name: Programme
-#   link: /programme/
-# - name: Travel Info
-#   link: /travel/
-# - name: Committee
-#   link: /committee/
-
-# ------------------------------------------------
-# Collections
-# ------------------------------------------------
 collections:
   pages:
     output: true
     permalink: /:path/
 
-# ----------------------------------------------
+social_links:
+  email: eoufledglingmeeting@gmail.com
+  twitter: https://twitter.com/EOUnion
+  website: https://www.eou.eu/
+
+show_excerpts: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
