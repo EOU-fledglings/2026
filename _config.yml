@@ -14,8 +14,9 @@ header_pages:
   - _pages/registration.md
   - _pages/travel.md
   - _pages/committee.md
-  - _pages/Interesting_spots.md
   - _pages/programme.md
+  - _pages/Interesting_spots.md
+
   
 theme: minima
 plugins:
