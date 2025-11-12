@@ -16,7 +16,8 @@ It welcomes **students (Bachelor’s, Master’s, and PhD)** as well as **resear
 The main goals are to **provide a forum for discussing ongoing research** and to **help early-career ornithologists build their professional networks** in a relaxed and informal setting.  
 While the programme (apart from plenary talks) is dedicated to early-career researchers presenting and discussing their work, **anyone interested in ornithology is warmly invited to attend**.
 
-{: .narrow-text }
+
+
 
 ---
 
