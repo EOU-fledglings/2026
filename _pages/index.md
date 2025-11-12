@@ -17,4 +17,5 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
 
 ## Welcome from the EOU President
 
+![EOU President Welcome]( {{ "/assets/image/president_welcome.png" | relative_url }} )
 
