@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Travel Info
+title: Travel
 permalink: /travel/
 ---
 
