@@ -2,7 +2,7 @@
 layout: default
 title: Home
 permalink: /
----
+--- 
 
 <p align="center">  
   <img src="{{ '/assets/image/EOU26_flyer.png' | relative_url }}" 
