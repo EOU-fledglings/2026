@@ -5,9 +5,6 @@ email: eoufledglingmeeting@gmail.com
 
 url: "https://eou-fledglings.github.io"
 baseurl: "/2026"
-
-include:
-  - _pages
   
 header_pages:
   - index.md
