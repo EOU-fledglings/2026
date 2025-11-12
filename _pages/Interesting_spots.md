@@ -24,6 +24,17 @@ Located in the estuary of the **Vistula River**, the longest river in Poland, **
 [More information here →](https://mewialacha.pl/)
 
 
+## Beka Nature Reserve
+Established in 1988, **Beka Nature Reserve** protects coastal meadows, reedbeds, and saltmarshes located at the mouth of the Reda River on the Bay of Puck. This mosaic of habitats supports a rich bird community, including species associated with wet meadows and brackish coastal zones. Among the most notable are **common shelduck**, **northern lapwing**, **black-tailed godwit**, **common redshank**, **Eurasian curlew**, and **bearded reedling**. During migration, the area hosts large numbers of geese, ducks, and waders.  
+
+The reserve is managed by the **Polish Society for the Protection of Birds (OTOP)** and is equipped with **birdwatching platforms and educational paths**, making it a convenient and rewarding destination for nature enthusiasts.  
+
+**Location:** North of Gdynia, between the villages of Rewa and Osłonino, about *35 km from Gdańsk* and *30 km from the Faculty of Biology*  
+**How to get there:** Take an **SKM train** to **Reda** station, then a **bus to Rewa** or **Osłonino**, followed by a walk of approximately **2–3 km** to reach the observation areas.  
+
+[More information here →](https://otop.org.pl/beka-nature-reserve/)
+
+
 ## Zoo in Gdańsk
 Located in a picturesque valley surrounded by Oliwa Forest, Gdańsk ZOO is one of the largest of its kind in Poland. Famous for breeding Andean condors, it is home to many other species, like the Angolan lion, sand cat, cheetah, Rothschild giraffe, binturong, barasingha deer, lowland anoa, capybara, greater rhea, southern ground hornbill, various primates, waterfowl and many more! One of the most famous inhabitants is **Kokosanka** (meaning: “Coconut cookie”), an albino African penguin.  
 
