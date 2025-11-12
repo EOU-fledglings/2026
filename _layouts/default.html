@@ -6,21 +6,30 @@
 
 <body>
 
-  <header class="site-header" role="banner">
-    <div class="wrapper" style="display: flex; align-items: center; gap: 20px;">
-      <!-- 🪶 Conference logo on the left -->
-      <a href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/image/EOU26_logo.png' | relative_url }}" 
-             alt="EOU Fledglings 2026 logo"
-             style="height: 280px; width: auto; margin: 5px 0;">
-      </a>
+<header class="site-header" role="banner" style="width: 100%;">
+  <div style="
+        max-width: 1300px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        padding: 0 2rem;
+    ">
+    <!-- 🪶 Conference logo -->
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/image/EOU26_logo.png' | relative_url }}" 
+           alt="EOU Fledglings 2026 logo"
+           style="height: 80px; width: auto; margin-right: 20px;">
+    </a>
 
-      <!-- Site title and navigation -->
-      <div style="flex: 1;">
-        {% include header.html %}
-      </div>
+    <!-- Site title and navigation -->
+    <div style="flex: 1;">
+      {% include header.html %}
     </div>
-  </header>
+  </div>
+</header>
+
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
