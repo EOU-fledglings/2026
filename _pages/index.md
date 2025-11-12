@@ -17,11 +17,4 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
 
 ## Welcome from the EOU President
 
-> **Dear young ornithologists,**
->
-> The EOU provides a meeting place for all researchers interested in the diverse biology of birds. Our mission is to connect areas of research and promote cooperation among ornithologists in Europe and beyond. Supporting early-career ornithologists, bird enthusiasts, professionals, and students is one of our top priorities.
->
-> The biennial EOU Fledglings meetings offer an excellent opportunity to achieve these goals. I encourage all young ornithologists to attend, present their work, share ideas, and expand their networks.
->
-> **Dr. Péter László Pap**  
-> *EOU President*
+
