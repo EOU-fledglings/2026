@@ -8,7 +8,15 @@ baseurl: "/2026"
 
 include:
   - _pages
-
+  
+header_pages:
+  - index.md
+  - _pages/programme.md
+  - _pages/registration.md
+  - _pages/travel.md
+  - _pages/Interesting_spots.md
+  - _pages/committee.md
+  
 theme: minima
 plugins:
   - jekyll-feed
@@ -38,3 +46,5 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+      
