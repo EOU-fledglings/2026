@@ -47,7 +47,7 @@ A **taxi** from the airport to the city centre costs around 40–60 PLN (approx.
 ## How to Move Around Gdańsk and Nearby Cities
 
 ### By Bike
-In Tricity, there is a public bike system called **[MEVO](https://mevo.pl/)** — it’s *fantastic and highly recommended!*  
+In Tricity, there is a public bike system called **[MEVO](https://rowermevo.pl)** — it’s *fantastic and highly recommended!*  
 Simply download the app, find the closest bike, and scan the QR code to start.  
 After your ride, return the bike to one of the stations and **pay via the app**.
 
