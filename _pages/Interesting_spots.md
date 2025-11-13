@@ -12,7 +12,7 @@ While the beach and dunes in the reserve are closed to the public year-round, yo
 **Location:** Gdańsk, western part of Sobieszewo Island, about *10 km from Gdańsk Główny station* and *14 km from the Faculty of Biology*  
 **How to get there:** to **Górki Wschodnie** stop via bus line **186**, which departs from Gdańsk Główny (approx. 40 minutes). The reserve’s border is very close to the bus stop — about **200 metres** away.  
 
-[More information here →](https://pomorskie.travel/en/punkty-poi/ptasi-raj-reserve/)
+[More information here →](https://www.birdingplaces.eu/en/birdingplaces/poland/ptasi-raj-reserve)
 
 
 ## Mewia Łacha Nature Reserve
@@ -21,7 +21,7 @@ Located in the estuary of the **Vistula River**, the longest river in Poland, **
 **Location:** Gdańsk, eastern part of Sobieszewo Island, about *24 km from the Faculty of Biology*  
 **How to get there:** to **Przystań** stop via bus line **112** or **212**, departing from Gdańsk Główny (approx. 45 minutes). The reserve is located about **3 km** from the stop.  
 
-[More information here →](https://mewialacha.pl/)
+[More information here →](https://www.birdingplaces.eu/en/birdingplaces/poland/rezerwat-mewia-lacha)
 
 
 ## Beka Nature Reserve
