@@ -32,7 +32,7 @@ The reserve is managed by the **Polish Society for the Protection of Birds (OTOP
 **Location:** North of Gdynia, between the villages of Rewa and Osłonino, about *35 km from Gdańsk* and *30 km from the Faculty of Biology*  
 **How to get there:** Take an **SKM train** to **Reda** station, then a **bus to Rewa** or **Osłonino**, followed by a walk of approximately **2–3 km** to reach the observation areas.  
 
-[More information here →](https://otop.org.pl/our-projects/we-protect/reserves-and-nature-trails/beka/?lang=en)
+[More information here →](https://www.birdingplaces.eu/en/birdingplaces/poland/rezerwat-beka)
 
 
 ## Zoo in Gdańsk
