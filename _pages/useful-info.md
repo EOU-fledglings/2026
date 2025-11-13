@@ -54,7 +54,7 @@ On **non-trading Sundays**, only certain places remain open (such as restaurants
 | Police | **997** |
 | Fire and Rescue Service | **998** |
 | Emergency Medical Service | **999** |
-| Municipal Police | **986** |
+
 
 💡 You can also call **112** for any emergency — operators can assist you in **English and Polish**.
 
