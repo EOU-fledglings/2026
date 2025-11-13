@@ -41,7 +41,7 @@
 }
 
 .site-nav .page-link {
-  color: white !important;
+  color: white;
   text-decoration: none;
   font-weight: 600;
   font-size: 1rem;
@@ -55,7 +55,7 @@
 
 /* === SITE TITLE === */
 .site-title, .site-title:visited {
-  color: #ffffff !important;
+  color: #ffffff;
   font-weight: 700;
   font-size: 1.3rem;
   text-decoration: none;
@@ -86,14 +86,14 @@ body {
 }
 
 /* === Responsive tweaks === */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .site-nav {
     justify-content: center;
   }
 
   .site-nav .page-link {
     margin-bottom: 8px;
-    color: #87A9D5;
+    color: black;
   }
 
   .site-header img {
