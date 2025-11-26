@@ -4,14 +4,27 @@ title: Registration
 permalink: /registration/
 ---
 
-# Registration
+# Abstract Submission is now open! 🎉
 
-You can pre-register using the link below:
+We warmly invite all early-career ornithologists to submit an abstract for the  
+**5th EOU Fledglings Meeting (27–29 March 2026, Gdańsk)**
 
-👉 [**Pre-registration form**](https://docs.google.com/forms/d/e/1FAIpQLSeDoH8OS_Ks3vSNXRY2xXqrhzjJisPeTfVMdU8yB60Eb9gSUA/viewform?usp=dialog)
+👉 **Submit your abstract here:**  
+https://docs.google.com/forms/d/e/1FAIpQLSeORiPoqpkxaBDp9-UGRXXvsslcp4YUkRuKEGf37shmkkeR8Q/viewform
 
-Pre-registration helps us estimate the number of participants, prepare the budget, and plan practical details such as catering (including vegetarian and vegan options).
-Your early input is a great help for the organizing committee — thank you for taking a few minutes to fill it in!
+We welcome abstracts on all ornithological topics.  
+Both oral presentations and posters can be submitted.  
+**Deadline:** *16th January 2026*
 
-**Registration and abstract submission will open soon!**
-Those who pre-register will be the first to receive the official registration and abstract submission links.
+---
+
+## Pre-registration (optional, but helpful!)
+
+If you’d like to **receive reminders by email** (registration opening, abstract deadlines, practical information, travel updates), please fill in our short form:
+
+👉 **Pre-registration form:**  
+https://docs.google.com/forms/d/e/1FAIpQLSeDoH8OS_Ks3vSNXRY2xXqrhzjJisPeTfVMdU8yB60Eb9gSUA/viewform
+
+We also ask a few simple organisational questions.  
+Your early input helps the organising committee prepare the budget, venue, and catering (including vegetarian and vegan options).  
+**Thank you for your support!**
