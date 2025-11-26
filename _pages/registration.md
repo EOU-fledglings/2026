@@ -11,8 +11,7 @@ We warmly invite all early-career ornithologists to submit an abstract.
 Abstract submissions are accepted until **16 January 2026**.  
 While full registration will open later, we can already confirm that the **conference fee will not exceed 65 EUR**.
 
-👉 **Submit your abstract here:**  
-https://docs.google.com/forms/d/e/1FAIpQLSeORiPoqpkxaBDp9-UGRXXvsslcp4YUkRuKEGf37shmkkeR8Q/viewform
+👉 **Submit your abstract [**here**]([https://www.intercity.pl/en/](https://docs.google.com/forms/d/e/1FAIpQLSeORiPoqpkxaBDp9-UGRXXvsslcp4YUkRuKEGf37shmkkeR8Q/viewform):**  
 
 Please use this form to submit your abstract for either an **oral** or **poster** presentation.
 
