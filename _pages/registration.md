@@ -24,8 +24,7 @@ These are **two separate processes**.
 
 If you’d like to **receive reminders by email** (registration opening, abstract deadlines, practical information, travel updates), please fill in our short form:
 
-👉 **Pre-registration form:**  
-https://docs.google.com/forms/d/e/1FAIpQLSeDoH8OS_Ks3vSNXRY2xXqrhzjJisPeTfVMdU8yB60Eb9gSUA/viewform
+👉 **[Pre-registration form](https://docs.google.com/forms/d/e/1FAIpQLSeDoH8OS_Ks3vSNXRY2xXqrhzjJisPeTfVMdU8yB60Eb9gSUA/viewform)**  
 
 We also ask a few simple organisational questions.  
 Your early input helps the organising committee prepare the budget, venue, and catering (including vegetarian and vegan options).  
