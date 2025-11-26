@@ -9,12 +9,16 @@ permalink: /registration/
 We warmly invite all early-career ornithologists to submit an abstract for the  
 **5th EOU Fledglings Meeting (27–29 March 2026, Gdańsk)**
 
+Abstract submissions are accepted until **16 January 2026**.  
+While full registration will open later, we can already confirm that the **conference fee will not exceed 65 EUR**.
+
 👉 **Submit your abstract here:**  
 https://docs.google.com/forms/d/e/1FAIpQLSeORiPoqpkxaBDp9-UGRXXvsslcp4YUkRuKEGf37shmkkeR8Q/viewform
 
-We welcome abstracts on all ornithological topics.  
-Both oral presentations and posters can be submitted.  
-**Deadline:** *16th January 2026*
+Please use this form to submit your abstract for either an **oral** or **poster** presentation.
+
+**Note:** Abstract submission opens **before** participant registration.  
+These are **two separate processes**.
 
 ---
 
