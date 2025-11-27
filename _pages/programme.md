@@ -9,7 +9,7 @@ editor_options:
 
 # Programme
 
-The detailed programme will be available soon!\
+The detailed programme will be available soon!  
 Stay tuned for updates.
 
 # Plenary Speakers
