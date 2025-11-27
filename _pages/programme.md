@@ -18,7 +18,7 @@ Stay tuned for updates.
 
 \
 
-**Jérôme Fort**
+**Dr Jérôme Fort**
 
 *Littoral Environnement et Sociétés (LIENSs),\
 Centre Nationale de la Recherche Scientifique (CNRS),\
@@ -33,7 +33,7 @@ France*\
 \
 \
 
-**Miriam Liedvogel**
+**Dr Miriam Liedvogel**
 
 *Institute of Avian Research "Vogelwarte Helgoland", Wilhelmshaven,
 Germany (Managing Director)\
@@ -41,6 +41,19 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in
 Ornithology)*\
 
 ### "Blackcap migration - adaptation in time and space"
+
+\
+
+<img src="images/piotr_image.jpg" style="width:150px; float:right; margin-left:20px; margin-bottom:10px;"/>
+
+\
+\
+
+**Dr Piotr Minias**
+
+*University of Łódź*\
+
+### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"
 
 ------------------------------------------------------------------------
 
