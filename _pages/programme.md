@@ -12,17 +12,17 @@ editor_options:
 The detailed programme will be available soon!\
 Stay tuned for updates.
 
-## Plenary Speakers
+# Plenary Speakers
 
 <img src="images/jerome_image.JPG" style="width:150px; float:right; margin-left:20px; margin-bottom:10px;"/>
 
-\
+
 
 **Dr Jérôme Fort**
 
 *Littoral Environnement et Sociétés (LIENSs),\
 Centre Nationale de la Recherche Scientifique (CNRS),\
-France*\
+France*
 
 ### "Sentinels of the marine environment: seabirds under multiple pressures"
 
@@ -51,7 +51,7 @@ Ornithology)*\
 
 **Dr Piotr Minias**
 
-*University of Łódź*\
+*University of Łódź, Poland*
 
 ### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"
 
