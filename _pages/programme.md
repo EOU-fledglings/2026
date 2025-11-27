@@ -26,28 +26,25 @@ France*
 
 ### "Sentinels of the marine environment: seabirds under multiple pressures"
 
-\
+
 
 <img src="images/Miriam_Liedvogel_Reinzeichnung.jpg" style="width:150px; float:right; margin-left:20px; margin-bottom:10px;"/>
 
-\
-\
+
 
 **Dr Miriam Liedvogel**
 
 *Institute of Avian Research "Vogelwarte Helgoland", Wilhelmshaven,
 Germany (Managing Director)\
 Carl von Ossietzky University, Oldenburg, Germany (Professor in
-Ornithology)*\
+Ornithology)*
 
 ### "Blackcap migration - adaptation in time and space"
 
-\
 
 <img src="images/piotr_image.jpg" style="width:150px; float:right; margin-left:20px; margin-bottom:10px;"/>
 
-\
-\
+
 
 **Dr Piotr Minias**
 
