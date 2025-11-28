@@ -12,7 +12,7 @@ editor_options:
 <div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/jerome_image.JPG' | relative_url }}" 
-     style="width:200px; float:letf; margin-right:20px; margin-bottom:10px;" />
+     style="width:200px; float:left; margin-right:20px; margin-bottom:10px;" />
 
 **Dr Jérôme Fort**  
 
