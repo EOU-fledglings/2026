@@ -26,7 +26,7 @@ France*
 <div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/Miriam_Liedvogel_Reinzeichnung.jpg' | relative_url }}" 
-     style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
+     style="width:200px; float:left; margin-right:20px; margin-bottom:10px;" />
 
 **Dr Miriam Liedvogel**  
 
