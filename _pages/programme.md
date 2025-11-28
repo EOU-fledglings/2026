@@ -20,7 +20,7 @@ editor_options:
 Centre Nationale de la Recherche Scientifique (CNRS),  
 France*  
 
-### "Sentinels of the marine environment: seabirds under multiple pressures"    
+## "Sentinels of the marine environment: seabirds under multiple pressures"    
 </div>
 
 <div markdown="1" style="overflow:auto;">
@@ -34,19 +34,19 @@ France*
 Germany (Managing Director)  
 Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*  
 
-### "Blackcap migration – adaptation in time and space"  
+## "Blackcap migration – adaptation in time and space"  
 </div>  
 
 <div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/piotr_image.jpg' | relative_url }}" 
-     style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
+     style="width:200px; float:left; margin-right:20px; margin-bottom:10px;" />
 
 **Dr Piotr Minias**  
 
 *University of Łódź, Poland*  
 
-### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"  
+## "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"  
 </div>
   
 ---  
