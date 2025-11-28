@@ -12,7 +12,7 @@ editor_options:
 <div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/jerome_image.JPG' | relative_url }}" 
-     style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
+     style="width:200px; float:letf; margin-right:20px; margin-bottom:10px;" />
 
 **Dr Jérôme Fort**  
 
@@ -30,8 +30,7 @@ France*
 
 **Dr Miriam Liedvogel**  
 
-*Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven,  
-Germany (Managing Director)  
+*Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven, Germany (Managing Director)  
 Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*  
 
 ## "Blackcap migration – adaptation in time and space"  
@@ -44,7 +43,8 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 
 **Dr Piotr Minias**  
 
-*University of Łódź, Poland*  
+*University of Łódź,   
+Poland*  
 
 ## "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"  
 </div>
