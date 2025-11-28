@@ -9,8 +9,7 @@ editor_options:
 
 # Plenary Speakers
 
-<img src="images/jerome_image.JPG" style="width:150px; float:right; margin-left:20px; margin-bottom:10px;"/>
-
+<img src="{{ '/assets/image/jerome_image.JPG' | relative_url }}" style="width:150px; float:right; margin-left:20px; margin-bottom:10px;"/>
 
 
 **Dr Jérôme Fort**
