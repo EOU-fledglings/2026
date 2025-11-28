@@ -21,19 +21,6 @@ Centre Nationale de la Recherche Scientifique (CNRS),
 France*  
 
 ## "Sentinels of the marine environment: seabirds under multiple pressures"    
-</div>
-
-<div markdown="1" style="overflow:auto;">
-
-<img src="{{ '/images/Miriam_Liedvogel_Reinzeichnung.jpg' | relative_url }}" 
-     style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
-
-**Dr Miriam Liedvogel**  
-
-*Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven, Germany (Managing Director)  
-Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*  
-
-## "Blackcap migration – adaptation in time and space"  
 </div>  
 
 <div markdown="1" style="overflow:auto;">
@@ -47,6 +34,19 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 Poland*  
 
 ## "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"  
+</div>
+
+<div markdown="1" style="overflow:auto;">
+
+<img src="{{ '/images/Miriam_Liedvogel_Reinzeichnung.jpg' | relative_url }}" 
+     style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
+
+**Dr Miriam Liedvogel**  
+
+*Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven, Germany (Managing Director)  
+Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*  
+
+## "Blackcap migration – adaptation in time and space"  
 </div>
   
 ---  
