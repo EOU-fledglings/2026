@@ -12,7 +12,7 @@ editor_options:
 <div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/jerome_image.JPG' | relative_url }}" 
-     style="width:150px; float:right; margin-left:20px; margin-bottom:10px;" />
+     style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
 
 **Dr Jérôme Fort**  
 
@@ -22,13 +22,13 @@ France*
 
 </div>
 
-### "Sentinels of the marine environment: seabirds under multiple pressures"  
-
+### "Sentinels of the marine environment: seabirds under multiple pressures"    
+  
 
 <div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/Miriam_Liedvogel_Reinzeichnung.jpg' | relative_url }}" 
-     style="width:150px; float:right; margin-left:20px; margin-bottom:10px;" />
+     style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
 
 **Dr Miriam Liedvogel**  
 
@@ -39,12 +39,12 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 </div>
 
 ### "Blackcap migration – adaptation in time and space"  
-
+  
 
 <div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/piotr_image.jpg' | relative_url }}" 
-     style="width:150px; float:right; margin-left:20px; margin-bottom:10px;" />
+     style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
 
 **Dr Piotr Minias**  
 
@@ -53,11 +53,13 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 </div>
 
 ### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"  
+  
+---
 
 # Programme
 
 The detailed programme will be available soon!  
-Stay tuned for updates.
+Stay tuned for updates.  
 
 ---
 
