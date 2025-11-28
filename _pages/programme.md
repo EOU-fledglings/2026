@@ -9,48 +9,50 @@ editor_options:
 
 # Plenary Speakers
 
-<div style="overflow:auto;">
+<div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/jerome_image.JPG' | relative_url }}" 
      style="width:150px; float:right; margin-left:20px; margin-bottom:10px;" />
 
-**Dr Jérôme Fort**
+**Dr Jérôme Fort**  
 
-*Littoral Environnement et Sociétés (LIENSs),\ 
-Centre Nationale de la Recherche Scientifique (CNRS),\  
+*Littoral Environnement et Sociétés (LIENSs),  
+Centre Nationale de la Recherche Scientifique (CNRS),  
 France*
 
 </div>
 
-### "Sentinels of the marine environment: seabirds under multiple pressures"
+### "Sentinels of the marine environment: seabirds under multiple pressures"  
 
-<div style="overflow:auto;">
+
+<div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/Miriam_Liedvogel_Reinzeichnung.jpg' | relative_url }}" 
      style="width:150px; float:right; margin-left:20px; margin-bottom:10px;" />
 
-**Dr Miriam Liedvogel**
+**Dr Miriam Liedvogel**  
 
-*Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven, Germany (Managing Director)\  
+*Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven,  
+Germany (Managing Director)  
 Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 
 </div>
 
-### "Blackcap migration – adaptation in time and space"
+### "Blackcap migration – adaptation in time and space"  
 
 
-<div style="overflow:auto;">
+<div markdown="1" style="overflow:auto;">
 
 <img src="{{ '/images/piotr_image.jpg' | relative_url }}" 
      style="width:150px; float:right; margin-left:20px; margin-bottom:10px;" />
 
-**Dr Piotr Minias**
+**Dr Piotr Minias**  
 
 *University of Łódź, Poland*
 
 </div>
 
-### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"\
+### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"  
 
 # Programme
 
