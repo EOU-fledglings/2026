@@ -18,12 +18,10 @@ editor_options:
 
 *Littoral Environnement et Sociétés (LIENSs),  
 Centre Nationale de la Recherche Scientifique (CNRS),  
-France*
-
-</div>
+France*  
 
 ### "Sentinels of the marine environment: seabirds under multiple pressures"    
-  
+</div>
 
 <div markdown="1" style="overflow:auto;">
 
@@ -34,12 +32,10 @@ France*
 
 *Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven,  
 Germany (Managing Director)  
-Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
-
-</div>
+Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*  
 
 ### "Blackcap migration – adaptation in time and space"  
-  
+</div>  
 
 <div markdown="1" style="overflow:auto;">
 
@@ -48,20 +44,19 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 
 **Dr Piotr Minias**  
 
-*University of Łódź, Poland*
-
-</div>
+*University of Łódź, Poland*  
 
 ### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"  
+</div>
   
----
+---  
 
 # Programme
 
 The detailed programme will be available soon!  
 Stay tuned for updates.  
 
----
+---  
 
 ## Follow us on social media
 
