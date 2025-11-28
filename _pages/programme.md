@@ -16,13 +16,13 @@ editor_options:
 
 **Dr Jérôme Fort**
 
-*Littoral Environnement et Sociétés (LIENSs),  
-Centre Nationale de la Recherche Scientifique (CNRS),  
+*Littoral Environnement et Sociétés (LIENSs),\ 
+Centre Nationale de la Recherche Scientifique (CNRS),\  
 France*
 
-### "Sentinels of the marine environment: seabirds under multiple pressures"
-
 </div>
+
+### "Sentinels of the marine environment: seabirds under multiple pressures"
 
 <div style="overflow:auto;">
 
@@ -31,12 +31,13 @@ France*
 
 **Dr Miriam Liedvogel**
 
-*Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven, Germany (Managing Director)  
+*Institute of Avian Research “Vogelwarte Helgoland”, Wilhelmshaven, Germany (Managing Director)\  
 Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
+
+</div>
 
 ### "Blackcap migration – adaptation in time and space"
 
-</div>
 
 <div style="overflow:auto;">
 
@@ -47,11 +48,9 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 
 *University of Łódź, Poland*
 
-### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"
-
 </div>
 
----
+### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"\
 
 # Programme
 
