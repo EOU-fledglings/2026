@@ -7,11 +7,6 @@ editor_options:
     wrap: 72
 ---
 
-# Programme
-
-The detailed programme will be available soon!  
-Stay tuned for updates.
-
 # Plenary Speakers
 
 <img src="images/jerome_image.JPG" style="width:150px; float:right; margin-left:20px; margin-bottom:10px;"/>
@@ -52,6 +47,10 @@ Ornithology)*
 
 ### "Host-parasite interactions through the lens of avian immunogenetics: from ecology to macroevolution"
 
+# Programme
+
+The detailed programme will be available soon!  
+Stay tuned for updates.
 
 ---
 
