@@ -11,7 +11,7 @@ editor_options:
 
 <div markdown="1" style="overflow:auto;">
 
-<img src="{{ '/images/jerome_image.JPG' | relative_url }}" 
+<img src="{{ '/assets/image/jerome_image.JPG' | relative_url }}" 
      style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
 
 **Dr Jérôme Fort**  
@@ -25,7 +25,7 @@ France*
 
 <div markdown="1" style="overflow:auto;">
 
-<img src="{{ '/images/piotr_image.jpg' | relative_url }}" 
+<img src="{{ '/assets/image/piotr_image.jpg' | relative_url }}" 
      style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
 
 **Dr Piotr Minias**  
@@ -38,7 +38,7 @@ Poland*
 
 <div markdown="1" style="overflow:auto;">
 
-<img src="{{ '/images/Miriam_Liedvogel_Reinzeichnung.jpg' | relative_url }}" 
+<img src="{{ '/assets/image/Miriam_Liedvogel_Reinzeichnung.jpg' | relative_url }}" 
      style="width:200px; float:right; margin-left:20px; margin-bottom:10px;" />
 
 **Dr Miriam Liedvogel**  
