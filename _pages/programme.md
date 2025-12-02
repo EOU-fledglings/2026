@@ -56,7 +56,6 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 The detailed programme will be available soon!  
 Stay tuned for updates.  
 
----  
 
 ## Follow us on social media
 
