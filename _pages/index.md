@@ -88,13 +88,13 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
        style="text-decoration: none; color: inherit;">
       <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
         <div style="height: 180px; overflow: hidden;">
-          <img src="{{ 'assets/image/whiskered_tern_Mateusz_Ledwon_mail_1.jpg' | relative_url }}"
+          <img src="{{ 'assets/image/Manx_shearwater_Martyna_Syposz.jpeg' | relative_url }}"
                alt="Programme"
                style="width: 100%; height: 100%; object-fit: cover; display: block;">
         </div>
         <div style="padding: 12px 14px; text-align: center;">
           <div style="font-weight: 600;">Programme</div>
-          <div style="font-size: 0.8rem; color: #555;">Photo: Mateusz Ledwoń</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Martyna Syposz</div>
         </div>
       </div>
     </a>
