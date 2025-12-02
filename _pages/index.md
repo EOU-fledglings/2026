@@ -43,10 +43,12 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
     Explore the meeting
   </h2>
 
+  <!-- FIRST ROW: 3 BOXES -->
   <div style="
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      grid-template-columns: repeat(3, 1fr);
       gap: 20px;
+      margin-bottom: 25px;
     ">
 
     <!-- Registration -->
@@ -97,6 +99,17 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
       </div>
     </a>
 
+  </div>
+
+  <!-- SECOND ROW: 2 BOXES, CENTRED -->
+  <div style="
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      max-width: 650px;
+      margin: 0 auto;
+    ">
+
     <!-- Committee -->
     <a href="{{ '/committee/' | relative_url }}"
        style="text-decoration: none; color: inherit;">
@@ -131,3 +144,6 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
 
   </div>
 </div>
+
+
+
