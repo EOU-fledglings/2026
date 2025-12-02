@@ -1,28 +1,32 @@
 <div class="top-banner-container" style="
-  max-width: 1100px;
-  margin: 0 auto 20px auto;
-  padding: 0 15px;
+ width: 100%;
+  margin: 0;
+  padding: 0;
 ">
   <div style="
-    border-radius: 10px;
+       width: 100%;
+    height: 300px;
     overflow: hidden;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    position: relative;
   ">
     <img
       id="top-banner-image"
       src="{{ '/assets/image/Horned_lark_Romenia_Codrut_Helerea_BlueSky_banner.jpg' | relative_url }}"
       alt="Conference banner photo"
-      style="width: 100%; display: block; object-fit: cover; max-height: 260px;"
+      style="width: 100%; height: 100%; object-fit: cover; display: block;"
     >
   </div>
   <div
     id="top-banner-credit"
     style="
-      font-size: 0.8rem;
-      color: #555;
-      text-align: right;
-      margin-top: 4px;
-      padding-right: 5px;
+     position: absolute;
+        bottom: 8px;
+        right: 12px;
+        padding: 4px 8px;
+        background: rgba(0,0,0,0.45);
+        color: #fff;
+        font-size: 0.8rem;
+        border-radius: 4px;
     "
   >
     Photo: Codruț Helerea
@@ -54,10 +58,11 @@
 
     if (!imgEl || !creditEl) return;
 
-    var choice = banners[Math.floor(Math.random() * banners.length)];
+  var choice = banners[Math.floor(Math.random() * banners.length)];
 
-    imgEl.src = choice.src;
-    imgEl.alt = choice.alt;
-    creditEl.textContent = choice.credit;
+  img.src = choice.src;
+  img.alt = choice.alt;
+  credit.textContent = choice.credit;
+
   });
 </script>
