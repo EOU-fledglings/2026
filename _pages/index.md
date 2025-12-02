@@ -36,7 +36,6 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
        style="max-width: 700px; width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
 </p>
 
----
 <hr style="margin: 60px 0 40px;">
 
 <div style="max-width: 1000px; margin: 0 auto;">
