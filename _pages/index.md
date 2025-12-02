@@ -35,3 +35,100 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
        alt="EOU President Péter László Pap" 
        style="max-width: 700px; width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
 </p>
+
+---
+<hr style="margin: 60px 0 40px;">
+
+<div style="max-width: 1000px; margin: 0 auto;">
+  <h2 style="text-align: center; margin-bottom: 25px;">
+    Explore the meeting
+  </h2>
+
+  <div style="
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    ">
+
+    <!-- Registration -->
+    <a href="{{ '/registration/' | relative_url }}"
+       style="text-decoration: none; color: inherit;">
+      <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
+        <div style="height: 180px; overflow: hidden;">
+          <img src="{{ '/assets/image/Cory_shearwater_Horta_Martyna_Syposz.jpeg' | relative_url }}"
+               alt="Registration"
+               style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        </div>
+        <div style="padding: 12px 14px; text-align: center;">
+          <div style="font-weight: 600;">Registration</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Martyna Syposz</div>
+        </div>
+      </div>
+    </a>
+
+    <!-- Travel -->
+    <a href="{{ '/travel/' | relative_url }}"
+       style="text-decoration: none; color: inherit;">
+      <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
+        <div style="height: 180px; overflow: hidden;">
+          <img src="{{ '/assets/image/Horned_lark_Romenia_Codrut_Helerea_BlueSky.jpg' | relative_url }}"
+               alt="Travel & accommodation"
+               style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        </div>
+        <div style="padding: 12px 14px; text-align: center;">
+          <div style="font-weight: 600;">Travel &amp; accommodation</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Codruț Helerea</div>
+        </div>
+      </div>
+    </a>
+
+    <!-- Programme -->
+    <a href="{{ '/programme/' | relative_url }}"
+       style="text-decoration: none; color: inherit;">
+      <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
+        <div style="height: 180px; overflow: hidden;">
+          <img src="{{ '/assets/image/whiskered_tern_Mateusz_Ledwoń_mail (1).JPG' | relative_url }}"
+               alt="Programme"
+               style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        </div>
+        <div style="padding: 12px 14px; text-align: center;">
+          <div style="font-weight: 600;">Programme</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Mateusz Ledwoń</div>
+        </div>
+      </div>
+    </a>
+
+    <!-- Committee -->
+    <a href="{{ '/committee/' | relative_url }}"
+       style="text-decoration: none; color: inherit;">
+      <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
+        <div style="height: 180px; overflow: hidden;">
+          <img src="{{ '/assets/image/whiskered_tern_Mateusz_Ledwoń_mail (2).JPG' | relative_url }}"
+               alt="Committee"
+               style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        </div>
+        <div style="padding: 12px 14px; text-align: center;">
+          <div style="font-weight: 600;">Committee</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Mateusz Ledwoń</div>
+        </div>
+      </div>
+    </a>
+
+    <!-- Useful info -->
+    <a href="{{ '/useful-info/' | relative_url }}"
+       style="text-decoration: none; color: inherit;">
+      <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
+        <div style="height: 180px; overflow: hidden;">
+          <img src="{{ '/assets/image/whiskered_tern_Mateusz_Ledwoń_mail (3).JPG' | relative_url }}"
+               alt="Useful info"
+               style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        </div>
+        <div style="padding: 12px 14px; text-align: center;">
+          <div style="font-weight: 600;">Useful info</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Mateusz Ledwoń</div>
+        </div>
+      </div>
+    </a>
+
+  </div>
+</div>
