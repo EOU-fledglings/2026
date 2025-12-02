@@ -121,7 +121,7 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
         </div>
         <div style="padding: 12px 14px; text-align: center;">
           <div style="font-weight: 600;">Committee</div>
-          <div style="font-size: 0.8rem; color: #555;">Photo: Mateusz Ledwoń</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Maureen Hocquet</div>
         </div>
       </div>
     </a>
