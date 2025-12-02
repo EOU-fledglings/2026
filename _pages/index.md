@@ -86,7 +86,7 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
        style="text-decoration: none; color: inherit;">
       <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
         <div style="height: 180px; overflow: hidden;">
-          <img src="{{ '/assets/image/whiskered_tern_Mateusz_Ledwoń_mail_1.JPG' | relative_url }}"
+          <img src="{{ '/assets/image/whiskered_tern_Mateusz_Ledwoń_mail_1.jpg' | relative_url }}"
                alt="Programme"
                style="width: 100%; height: 100%; object-fit: cover; display: block;">
         </div>
