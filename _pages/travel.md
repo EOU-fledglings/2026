@@ -6,6 +6,22 @@ permalink: /travel/
 
 # Travel Information
 
+## DO-G Travel Scholarships
+
+The **Deutsche Ornithologen-Gesellschaft (DO-G)** is offering travel scholarships to support participation in the **EOU Fledglings Meeting 2026 in Gdańsk**.
+
+### Who can apply?
+- Early-career ornithologists.
+- Applicants **must be presenting** at the meeting (oral or poster).
+- Membership in DO-G is **required**.
+
+### Deadline
+The application deadline is **20 February 2026**.
+
+📄 **[Detailed information] (https://www.do-g.de/foerdern/reisestipendien/reisestipendien-gdansk)**
+
+---
+
 ## How to Arrive
 
 ### By Train
