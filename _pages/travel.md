@@ -18,7 +18,7 @@ The **Deutsche Ornithologen-Gesellschaft (DO-G)** is offering travel scholarship
 ### Deadline
 The application deadline is **20 February 2026**.
 
-📄 **[Detailed information] (https://www.do-g.de/foerdern/reisestipendien/reisestipendien-gdansk)**
+📄 **[Detailed information](https://www.do-g.de/foerdern/reisestipendien/reisestipendien-gdansk)**
 
 ---
 
