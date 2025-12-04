@@ -20,6 +20,13 @@ These are **two separate processes**.
 
 ---
 
+### ✈️ Travel Scholarships
+
+We are pleased to announce that **DO-G will provide travel scholarships** to support participation in the EOU Fledglings Meeting.  
+📄 **[Read more here](https://eou-fledglings.github.io/2026/travel/)**
+
+---
+
 ## Pre-registration (optional, but helpful!)
 
 If you’d like to **receive reminders by email** (registration opening, abstract deadlines, practical information, travel updates), please fill in our short form:
