@@ -29,7 +29,6 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
 
 </div>
 
-
 <p align="center">
   <img src="{{ '/assets/image/president_welcome.png' | relative_url }}" 
        alt="EOU President Péter László Pap" 
@@ -43,12 +42,10 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
     Explore the meeting
   </h2>
 
-  <!-- FIRST ROW: 3 BOXES -->
   <div style="
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 20px;
-      margin-bottom: 25px;
     ">
 
     <!-- Registration -->
@@ -67,18 +64,18 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
       </div>
     </a>
 
-    <!-- Travel -->
+    <!-- Travel & accommodation -->
     <a href="{{ '/travel/' | relative_url }}"
        style="text-decoration: none; color: inherit;">
       <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
         <div style="height: 180px; overflow: hidden;">
-          <img src="{{ '/assets/image/Horned_lark_Romenia_Codrut_Helerea_BlueSky.jpg' | relative_url }}"
+          <img src="{{ '/assets/image/Wren fledglings - Ben Porter2.jpg' | relative_url }}"
                alt="Travel & accommodation"
                style="width: 100%; height: 100%; object-fit: cover; display: block;">
         </div>
         <div style="padding: 12px 14px; text-align: center;">
           <div style="font-weight: 600;">Travel &amp; accommodation</div>
-          <div style="font-size: 0.8rem; color: #555;">Photo: Codruț Helerea</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Ben Porter</div>
         </div>
       </div>
     </a>
@@ -99,17 +96,6 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
       </div>
     </a>
 
-  </div>
-
-  <!-- SECOND ROW: 2 BOXES, CENTRED -->
-  <div style="
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 20px;
-      max-width: 650px;
-      margin: 0 auto;
-    ">
-
     <!-- Committee -->
     <a href="{{ '/committee/' | relative_url }}"
        style="text-decoration: none; color: inherit;">
@@ -126,21 +112,37 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
       </div>
     </a>
 
- <!-- Useful info -->
-<a href="{{ '/useful-info/' | relative_url }}"
-   style="text-decoration: none; color: inherit;">
-  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
-    <div style="height: 180px; overflow: hidden;">
-      <img src="{{ 'assets/image/whiskered_tern_Mateusz_Ledwon_mail_3.JPG' | relative_url }}"
-           alt="Useful info"
-           style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%; display: block;">
-    </div>
-    <div style="padding: 12px 14px; text-align: center;">
-      <div style="font-weight: 600;">Useful info</div>
-      <div style="font-size: 0.8rem; color: #555;">Photo: Mateusz Ledwoń</div>
-    </div>
+    <!-- Useful info -->
+    <a href="{{ '/useful-info/' | relative_url }}"
+       style="text-decoration: none; color: inherit;">
+      <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
+        <div style="height: 180px; overflow: hidden;">
+          <img src="{{ 'assets/image/whiskered_tern_Mateusz_Ledwon_mail_3.JPG' | relative_url }}"
+               alt="Useful info"
+               style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%; display: block;">
+        </div>
+        <div style="padding: 12px 14px; text-align: center;">
+          <div style="font-weight: 600;">Useful info</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Mateusz Ledwoń</div>
+        </div>
+      </div>
+    </a>
+
+    <!-- Interesting spots -->
+    <a href="{{ '/interesting-spots/' | relative_url }}"
+       style="text-decoration: none; color: inherit;">
+      <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
+        <div style="height: 180px; overflow: hidden;">
+          <img src="{{ '/assets/image/Madeiran Storm-petrel - Ben Porter_2.jpg' | relative_url }}"
+               alt="Interesting spots"
+               style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        </div>
+        <div style="padding: 12px 14px; text-align: center;">
+          <div style="font-weight: 600;">Interesting spots</div>
+          <div style="font-size: 0.8rem; color: #555;">Photo: Ben Porter</div>
+        </div>
+      </div>
+    </a>
+
   </div>
-</a>
-
-
-
+</div>
