@@ -129,13 +129,13 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
     </a>
 
     <!-- Interesting spots -->
-    <a href="{{ '/interesting-spots/' | relative_url }}"
+    <a href="{{ '/Interesting_spots/' | relative_url }}"
        style="text-decoration: none; color: inherit;">
       <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
         <div style="height: 180px; overflow: hidden;">
           <img src="{{ '/assets/image/Madeiran Storm-petrel - Ben Porter_2.jpg' | relative_url }}"
                alt="Interesting spots"
-               style="width: 100%; height: 100%; object-fit: cover; display: block;">
+               style="width: 100%; height: 100%; object-fit: center 40%; display: block;">
         </div>
         <div style="padding: 12px 14px; text-align: center;">
           <div style="font-weight: 600;">Interesting spots</div>
