@@ -4,32 +4,50 @@ title: Committee
 permalink: /committee/
 ---
 
+<style>
+  @media (max-width: 768px) {
+    .committee-layout {
+      flex-direction: column;
+    }
+    .committee-layout .committee-photo {
+      flex: 0 0 auto;
+      max-width: 320px;
+      width: 100%;
+      margin: 20px auto 0;
+    }
+  }
+</style>
+
 # Organising Committee
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<div class="committee-layout" style="display: flex; align-items: flex-start; gap: 30px;">
 
-  <!-- LEFT COLUMN: Committee list -->
+  <!-- LEFT COLUMN -->
   <div style="flex: 1;">
 
-- Kristin Piening (University of Gdańsk)  
-- Pauline Bodson (University of Gdańsk)  
-- Karolina Cieślinska (University of Gdańsk)  
-- Marta Witkowska (University of Gdańsk)  
-- Maureen Hocquet (University of Gdańsk)  
-- Emilia Czaplewska (University of Gdańsk)  
-- Martyna Gajzmer (University of Gdańsk)  
-- Zuzanna Marynkiewicz (University of Gdańsk)  
-- Ignacy Gołębiewski (University of Gdańsk)  
-- Justyna Płóciennik (University of Wrocław)  
-- Martyna Syposz (University of Gdańsk)
+<ul>
+  <li>Kristin Piening (University of Gdańsk)</li>
+  <li>Pauline Bodson (University of Gdańsk)</li>
+  <li>Karolina Cieślinska (University of Gdańsk)</li>
+  <li>Marta Witkowska (University of Gdańsk)</li>
+  <li>Maureen Hocquet (University of Gdańsk)</li>
+  <li>Emilia Czaplewska (University of Gdańsk)</li>
+  <li>Martyna Gajzmer (University of Gdańsk)</li>
+  <li>Zuzanna Marynkiewicz (University of Gdańsk)</li>
+  <li>Ignacy Gołębiewski (University of Gdańsk)</li>
+  <li>Justyna Płóciennik (University of Wrocław)</li>
+  <li>Martyna Syposz (University of Gdańsk)</li>
+</ul>
 
-📧 You can contact us with any questions or queries about the conference at:  
-**[eoufledglingmeeting@gmail.com](mailto:eoufledglingmeeting@gmail.com)**
+<p>
+📧 You can contact us with any questions or queries about the conference at:<br>
+<strong><a href="mailto:eoufledglingmeeting@gmail.com">eoufledglingmeeting@gmail.com</a></strong>
+</p>
 
   </div>
 
   <!-- RIGHT COLUMN: Owl photo -->
-  <div style="flex: 0 0 320px; text-align: center;">
+  <div class="committee-photo" style="flex: 0 0 320px; text-align: center;">
 
     <img src="{{ '/assets/image/Long-eared Owl - Ben Porter.jpg' | relative_url }}"
          alt="Long-eared Owl"
@@ -42,5 +60,3 @@ permalink: /committee/
   </div>
 
 </div>
-
-
