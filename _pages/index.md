@@ -64,21 +64,21 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
       </div>
     </a>
 
-    <!-- Travel & accommodation -->
-    <a href="{{ '/travel/' | relative_url }}"
-       style="text-decoration: none; color: inherit;">
-      <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
-        <div style="height: 180px; overflow: hidden;">
-          <img src="{{ '/assets/image/Wren fledglings - Ben Porter2.jpg' | relative_url }}"
-               alt="Travel & accommodation"
-               style="width: 100%; height: 100%; object-fit: center 50%; display: block;">
-        </div>
-        <div style="padding: 12px 14px; text-align: center;">
-          <div style="font-weight: 600;">Travel &amp; accommodation</div>
-          <div style="font-size: 0.8rem; color: #555;">Photo: Ben Porter</div>
-        </div>
-      </div>
-    </a>
+   <!-- Travel & accommodation -->
+<a href="{{ '/travel/' | relative_url }}"
+   style="text-decoration: none; color: inherit;">
+  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
+    <div style="height: 180px; overflow: hidden;">
+      <img src="{{ '/assets/image/Wren fledglings - Ben Porter2.jpg' | relative_url }}"
+           alt="Travel & accommodation"
+           style="width: 100%; height: 100%; object-fit: cover; object-position: center 40%; display: block;">
+    </div>
+    <div style="padding: 12px 14px; text-align: center;">
+      <div style="font-weight: 600;">Travel &amp; accommodation</div>
+      <div style="font-size: 0.8rem; color: #555;">Photo: Ben Porter</div>
+    </div>
+  </div>
+</a>
 
     <!-- Programme -->
     <a href="{{ '/programme/' | relative_url }}"
