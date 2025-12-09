@@ -71,7 +71,7 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
     <div style="height: 180px; overflow: hidden;">
       <img src="{{ '/assets/image/Wren fledglings - Ben Porter2.jpg' | relative_url }}"
            alt="Travel & accommodation"
-           style="width: 100%; height: 100%; object-fit: cover; object-position: center 60%; display: block;">
+           style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%; display: block;">
     </div>
     <div style="padding: 12px 14px; text-align: center;">
       <div style="font-weight: 600;">Travel &amp; accommodation</div>
