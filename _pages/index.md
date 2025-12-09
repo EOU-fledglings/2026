@@ -119,7 +119,7 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
         <div style="height: 180px; overflow: hidden;">
           <img src="{{ 'assets/image/whiskered_tern_Mateusz_Ledwon_mail_3.JPG' | relative_url }}"
                alt="Useful info"
-               style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%; display: block;">
+               style="width: 100%; height: 100%; object-fit: cover; object-position: cover; display: block;">
         </div>
         <div style="padding: 12px 14px; text-align: center;">
           <div style="font-weight: 600;">Useful info</div>
