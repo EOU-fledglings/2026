@@ -36,3 +36,13 @@ If you’d like to **receive reminders by email** (registration opening, abstrac
 We also ask a few simple organisational questions.  
 Your early input helps the organising committee prepare the budget, venue, and catering (including vegetarian and vegan options).  
 **Thank you for your support!**
+
+<div style="text-align: center; margin-top: 40px;">
+  <img src="{{ '/assets/images/Skomer Manx fledgling 4_AnnetteFayet.jpg' | relative_url }}"
+       alt="Manx Shearwater fledgling, Skomer Island"
+       style="max-width: 70%; height: auto; border-radius: 8px;" />
+  <p style="margin-top: 8px; font-size: 0.9em; color: #666;">
+    Photo by Annette Fayet
+  </p>
+</div>
+
