@@ -38,7 +38,7 @@ Your early input helps the organising committee prepare the budget, venue, and c
 **Thank you for your support!**
 
 <div style="text-align: center; margin-top: 40px;">
-  <img src="{{ '/assets/images/Skomer Manx fledgling 4_AnnetteFayet.jpg' | relative_url }}"
+  <img src="{{ '/assets/image/Skomer Manx fledgling 4_AnnetteFayet.jpg' | relative_url }}"
        alt="Manx Shearwater fledgling, Skomer Island"
        style="max-width: 70%; height: auto; border-radius: 8px;" />
   <p style="margin-top: 8px; font-size: 0.9em; color: #666;">
