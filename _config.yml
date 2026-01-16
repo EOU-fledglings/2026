@@ -17,6 +17,8 @@ header_pages:
   - _pages/programme.md
   - _pages/useful-info.md
   - _pages/Interesting_spots.md
+  - _pages/instructions.md
+
 
   
 theme: minima
