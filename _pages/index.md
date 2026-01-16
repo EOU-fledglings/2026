@@ -64,7 +64,7 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
       </div>
     </a>
 
-   <!-- Presentation & poster instructions -->
+   <!-- Presentation & Poster Instructions -->
 <a href="{{ '/instructions/' | relative_url }}"
    style="text-decoration: none; color: inherit;">
   <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.16); background: #fff;">
@@ -74,7 +74,7 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
            style="width: 100%; height: 100%; object-fit: cover; object-position: center 25%; display: block;">
     </div>
     <div style="padding: 12px 14px; text-align: center;">
-      <div style="font-weight: 600;">Presentation &amp; poster instructions</div>
+      <div style="font-weight: 600;">Presentation &amp; Poster Instructions</div>
       <div style="font-size: 0.8rem; color: #555;">Photo: Ben Porter</div>
     </div>
   </div>
