@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presentation & Poster Instructions
+title: Presentation&Poster Instructions
 permalink: /instructions/
 ---
 
