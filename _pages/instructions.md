@@ -16,7 +16,7 @@ Below you will find practical guidelines for **poster** and **oral presentations
 Please prepare your poster according to the following specifications:
 
 - **Orientation:** Portrait  
-- **Size:** **A0** (841 × 1189 mm)
+- **Size:** **B1** (707 × 1000 mm)
 
 Posters not meeting these requirements may be difficult to display, so we kindly ask you to follow the format carefully.
 
