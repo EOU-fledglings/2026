@@ -46,7 +46,16 @@ If you use slides, we suggest:
 
 This will help avoid technical issues and ensure smooth transitions between speakers.
 
----
+### Submitting your presentation
+
+To keep sessions running smoothly, please **email your presentation to the conference address**: **eoufledglingmeeting@gmail.com**  
+**Deadline:** *before the conference starts in the morning of your presentation day*.
+
+Please name your file using the following format:
+
+- **YYYYMMDD_Time_Lastname_Firstname**  
+  *(example: `20260328_0930_Kowalska_Martyna.pdf`)*
+
 
 <div style="text-align: center; margin-top: 40px;">
   <img src="{{ '/assets/image/Skomer Manx fledgling 4_AnnetteFayet.jpg' | relative_url }}"
