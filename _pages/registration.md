@@ -7,8 +7,7 @@ permalink: /registration/
 # Registration will be open soon
 ## The poster and abstract submissions are now closed
 
-In line with the resolution of the Senate of the University of Gdańsk and the position of the Ministry, participation in the meeting is **not possible** for individuals affiliated with
-<span style="color:#b00020;"><strong>Russian institutions</strong></span>.
+<em>In line with the resolution of the Senate of the University of Gdańsk and the position of the Ministry, participation in the meeting is **not possible** for individuals affiliated with **Russian institutions**.</em>
 
 ---
 
