@@ -48,6 +48,7 @@ If you use slides, we suggest:
 
 To keep sessions running smoothly, please **email your presentation to the conference address**:
 <strong><a href="mailto:eoufledglingmeeting@gmail.com">eoufledglingmeeting@gmail.com</a></strong> 
+
 **Deadline:** *before the conference starts in the morning of your presentation day*.
 
 Please name your file using the following format:
