@@ -18,6 +18,9 @@ Please use this form to submit your abstract for either an **oral** or **poster*
 **Note:** Abstract submission opens **before** participant registration.  
 These are **two separate processes**.
 
+In line with the resolution of the Senate of the University of Gdańsk and the position of the Ministry, participation in the meeting is **not possible** for individuals affiliated with
+<span style="color:#b00020;"><strong>Russian institutions</strong></span>.
+
 ---
 
 ### ✈️ Travel Scholarships
