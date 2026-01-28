@@ -25,12 +25,12 @@ Located in the estuary of the **Vistula River**, the longest river in Poland, **
 
 
 ## Beka Nature Reserve
-Established in 1988, **Beka Nature Reserve** protects coastal meadows, reedbeds, and saltmarshes located at the mouth of the Reda River on the Bay of Puck. This mosaic of habitats supports a rich bird community, including species associated with wet meadows and brackish coastal zones. Among the most notable are **common shelduck**, **northern lapwing**, **black-tailed godwit**, **common redshank**, **Eurasian curlew**, and **bearded reedling**. During migration, the area hosts large numbers of geese, ducks, and waders.  
+Established in 1988, **Beka Nature Reserve** protects coastal meadows, reedbeds, and saltmarshes located at the mouth of the Reda River on the Bay of Puck. This mosaic of habitats supports a rich bird community, including species associated with wet meadows and brackish coastal zones. Among the most notable are **common shelduck**, **northern lapwing**, **black-tailed godwit**, **common redshank**, **Eurasian curlew**, and **bearded reedling**. During migration, the area hosts large numbers of geese, ducks, and waders. In late March, especially numerous are: **Greylag, White-fronted and Barnacle Geese, Eurasian Wigeons, Green-winged Teals, Northern Pintails, and Northern Shovelers**.
 
 The reserve is managed by the **Polish Society for the Protection of Birds (OTOP)** and is equipped with **birdwatching platforms and educational paths**, making it a convenient and rewarding destination for nature enthusiasts.  
 
 **Location:** North of Gdynia, between the villages of Rewa and Osłonino, about *35 km from Gdańsk* and *30 km from the Faculty of Biology*  
-**How to get there:** Take an **SKM train** to **Reda** station, then a **bus to Rewa** or **Osłonino**, followed by a walk of approximately **2–3 km** to reach the observation areas.  
+**How to get there:** Take an **PolRegio train** to **Reda** station, then a **bus to Rewa** or **Osłonino**, followed by a walk of approximately **2–3 km** to reach the observation areas.  
 
 [More information here →](https://www.birdingplaces.eu/en/birdingplaces/poland/rezerwat-beka)
 
@@ -57,4 +57,37 @@ Being a combination of a museum and a zoo, Gdynia Aquarium is a great place for 
 
 [More information here →](https://akwarium.gdynia.pl/en/)
 
+## Rewa
+Rewa is a small coastal village popular with beach-goers in summer. For birdwatchers, however, it is best visited in **winter and early spring**, when **large flocks of seabirds** gather in the area. The highest densities occur near the mouth of the **Reda River**. This section is **strictly protected** and entry is **forbidden**, but excellent views can be obtained from the **beach west of the village**.  
+The most common species include **tufted duck**, **greater scaup**, and **Eurasian coot**, often counted in **tens of thousands**. Other regularly observed birds are **mallard**, **long-tailed duck**, **smew**, **common goldeneye**, **mute swan**, **whooper swan**, **grey heron**, **great white egret**, **great crested grebe**, and **white-tailed eagle**.
+
+**Location:** Rewa, about *12 km north of Gdynia Główna station*, *27 km north of the Faculty of Biology*, and *32 km north of Gdańsk Główny station*  
+**How to get there:** to **Rewa – Bosmańska** stop via bus line **146**, departing from **Gdynia Dworzec Gł. PKP – Hala** (approx. **47 minutes**). The departure stop is located about **350 m** from Gdynia Główna train station.
+
+
+## Sopot Pier
+The **Sopot Pier** is the longest wooden pier in Europe and one of the most recognisable landmarks in the region. Measuring **511.5 m**, it is located in the very centre of the city and is easily accessible, making it popular with tourists and birdwatchers alike. You are guaranteed close views of **herring gulls**, **common gulls**, **black-headed gulls**, **mallards**, and **mute swans** — many of which are ringed, allowing insights into their life histories.  
+Other regularly recorded species include **great crested grebe**, **common goldeneye**, **long-tailed duck**, and occasionally **common eider**, usually observed further offshore.
+
+**Location:** Sopot, about *850 m north-east of Sopot station*, *5.7 km north of the Faculty of Biology*, *8.8 km from Gdynia Główna station*, and *11 km from Gdańsk Główny station*  
+**How to get there:** arrive at **Sopot train station** (approx. **7 minutes from Gdynia Główna**, **8 minutes from Gdańsk Przymorze–Uniwersytet**, or **19 minutes from Gdańsk Główny** by SKM trains), then walk for about **15 minutes** along **Bohaterów Monte Cassino Street** (passing the famous Crooked House).
+
+
+## Staw Wróbla and Jasień Reservoir
+Located near the border of the **Tricity Landscape Park**, **Staw Wróbla** is a popular recreational area for local residents and an important breeding site for many bird species. Nesting birds include **mallard**, **mute swan**, **Eurasian coot**, **moorhen**, **common reed warbler**, and **great reed warbler**. A particular highlight is a **breeding pair of red-necked grebes**.  
+The nearby artificial **Jasień Reservoir** hosts a very large **black-headed gull** breeding colony, making it especially impressive during the breeding season.
+
+**Location:** Gdańsk, Jasień district, about *5 km south-west of the Faculty of Biology* and *6 km west of Gdańsk Główny station*  
+**How to get there:** arrive at **Gdańsk Jasień** train station (approx. **7 minutes from Gdańsk Strzyża** and **40 minutes from Gdynia Główna** by PolRegio trains) or at **Jasień PKM** bus stop via bus line **130** (approx. **27 minutes from Gdańsk Główny**). Both water bodies are very close to the station — **Jasień Reservoir is visible directly from the platform**.
+
+
+## Kack Lake
+Situated on the edge of **Oliwa Forest** and the **Tricity Landscape Park**, **Kack Lake** is today a marsh, although it used to be a true lake — hence the name. Thanks to its location, the area supports birds from a wide range of habitats, from woodland to wet meadows and marshes.  
+You are very likely to see (and hear) **common cranes**, along with various small passerines. In the evening, listen carefully for the distinctive calls of the **water rail**.
+
+**Location:** Gdynia, Wielki Kack district, about *6.2 km south-west of Gdynia Główna station*, *9.2 km north-west of the Faculty of Biology*, and *15 km north-east of Gdańsk Główny station*  
+**How to get there:** arrive at **Gdynia Karwiny** train station (approx. **10 minutes from Gdynia Główna** and **39 minutes from Gdańsk Strzyża**), then take a **10-minute walk southwards**.
+
+
+[More information here →](https://www.birdingplaces.eu/en/birdingplaces/poland/jezioro-kackie)
 
