@@ -5,18 +5,17 @@ permalink: /registration/
 ---
 
 # Registration will be open soon
-The poster and abstract submissions are now closed
+## The poster and abstract submissions are now closed
 
 <em>In line with the resolution of the Senate of the University of Gdańsk and the position of the Ministry, participation in the meeting is **not possible** for individuals affiliated with **Russian institutions**.</em>
 
----
 
-### ✈️ Travel Scholarships
+
+## ✈️ Travel Scholarships
 
 We are pleased to announce that **DO-G will provide travel scholarships** to support participation in the EOU Fledglings Meeting.  
 📄 **[Read more here](https://eou-fledglings.github.io/2026/travel/)**
 
----
 
 <div style="text-align: center; margin-top: 40px;">
   <img src="{{ '/assets/image/Skomer Manx fledgling 4_AnnetteFayet.jpg' | relative_url }}"
