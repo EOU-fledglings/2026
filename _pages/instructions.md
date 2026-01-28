@@ -44,8 +44,6 @@ If you use slides, we suggest:
 - **Aspect ratio:** 16:9  
 - **File format:** `.pdf` or `.pptx`  
 
-This will help avoid technical issues and ensure smooth transitions between speakers.
-
 ### Submitting your presentation
 
 To keep sessions running smoothly, please **email your presentation to the conference address**: **eoufledglingmeeting@gmail.com**  
