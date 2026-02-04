@@ -18,11 +18,11 @@ We are pleased to announce that **DO-G will provide travel scholarships** to sup
 
 
 <div style="text-align: center; margin-top: 40px;">
-  <img src="{{ '/assets/image/Skomer Manx fledgling 4_AnnetteFayet.jpg' | relative_url }}"
-       alt="Manx Shearwater fledgling, Skomer Island"
+  <img src="{{ '/assets/image/Little_Auk_Dariusz_Jakubas.JPG' | relative_url }}"
+       alt="Little Auk, Hornsund"
        style="max-width: 70%; height: auto; border-radius: 8px;" />
   <p style="margin-top: 8px; font-size: 0.9em; color: #666;">
-    Photo by Annette Fayet
+    Photo by Dariusz Jakubas
   </p>
 </div>
 
