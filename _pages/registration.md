@@ -4,7 +4,12 @@ title: Registration
 permalink: /registration/
 ---
 
-# Registration will be open soon
+# Registration is now open!
+Please note that registration closes on **28 February 2026**, and that the conference administration fee is **40 euros**.
+
+You can register using the following link:
+https://docs.google.com/forms/d/e/1FAIpQLSeaRfErC_PIpk7Xr8mRCL0BQGfUVBYNSljeSa6-O08sNEuunA/viewform?usp=publish-editor 
+
 ## The poster and abstract submissions are now closed
 
 <em>In line with the resolution of the Senate of the University of Gdańsk and the position of the Ministry, participation in the meeting is **not possible** for individuals affiliated with **Russian institutions**.</em>
