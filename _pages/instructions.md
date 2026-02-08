@@ -49,7 +49,7 @@ If you use slides, we suggest:
 To keep sessions running smoothly, please **email your presentation to the conference address**:
 <strong><a href="mailto:eoufledglingmeeting@gmail.com">eoufledglingmeeting@gmail.com</a></strong> 
 
-**Deadline:** *_12:00 Thursday 26th March 2026_*.
+**Deadline:** *12:00 Thursday 26th March 2026*.
 
 Please name your file using the following format:
 
