@@ -149,3 +149,29 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
 
 
 ---
+## Sponsors
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 25px;">
+
+<a href="https://eounion.org" target="_blank">
+  <img src="/assets/images/EOU-Logo_final-1.png" alt="European Ornithologists' Union" height="80">
+</a>
+
+<a href="http://www.biologists.com" target="_blank">
+  <img src="/assets/images/CoB_logo_AW_RGB_bleed.jpg" alt="Company of Biologists" height="80">
+</a>
+
+<a href="https://www.do-g.de" target="_blank">
+  <img src="/assets/images/dog_logo_blau_freigestellt.png" alt="Deutsche Ornithologen-Gesellschaft" height="80">
+</a>
+
+<a href="https://otop.org.pl" target="_blank">
+  <img src="/assets/images/OTOP-logo.png" alt="Ogólnopolskie Towarzystwo Ochrony Ptaków" height="80">
+</a>
+
+<a href="https://en.ug.edu.pl" target="_blank">
+  <img src="/assets/images/UG_logo_RGB_podstawowy_pozytyw_EN.png" alt="University of Gdańsk" height="80">
+</a>
+
+</div>
+
