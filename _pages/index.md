@@ -150,7 +150,11 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
  <br><br><br>
 
 ---
+
+<div align="center" markdown="1">
+
 ## Sponsors
+</div>
 
 <div style="
   display: grid;
