@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <p align="center">  
-  <img src="{{ '/assets/image/EOU26_registration.png' | relative_url }}" 
+  <img src="{{ '/assets/image/EOU26_banner_registration.png' | relative_url }}" 
        alt="EOU Fledglings 2026 banner" 
        style="max-width: 800px; width: 100%; border-radius: 10px; box-shadow: 0 3px 8px rgba(0,0,0,0.2); margin-bottom: 30px;">
 </p>
