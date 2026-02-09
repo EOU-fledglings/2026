@@ -152,50 +152,57 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
 ---
 ## Sponsors
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 35px;">
+<div style="
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 26px 34px;
+  align-items: center;
+">
 
-<a href="https://eounion.org" target="_blank">
-  <img src="{{ '/assets/image/EOU-Logo_final-1.png' | relative_url }}"
-       alt="European Ornithologists' Union"
-       height="110">
-</a>
+  <a href="https://eounion.org" target="_blank" style="display:flex; justify-content:center;">
+    <img src="{{ '/assets/image/EOU-Logo_final-1.png' | relative_url }}"
+         alt="European Ornithologists' Union"
+         style="height:110px; max-width:230px; width:auto;">
+  </a>
 
-<a href="http://www.biologists.com" target="_blank">
-  <img src="{{ '/assets/image/CoB_logo_AW_RGB_bleed.jpg' | relative_url }}"
-       alt="Company of Biologists"
-       height="110">
-</a>
+  <a href="http://www.biologists.com" target="_blank" style="display:flex; justify-content:center;">
+    <img src="{{ '/assets/image/CoB_logo_AW_RGB_bleed.jpg' | relative_url }}"
+         alt="Company of Biologists"
+         style="height:110px; max-width:230px; width:auto;">
+  </a>
 
-<a href="https://www.do-g.de" target="_blank">
-  <img src="{{ '/assets/image/dog_logo_blau_freigestellt.png' | relative_url }}"
-       alt="Deutsche Ornithologen-Gesellschaft"
-       height="110">
-</a>
+  <a href="https://www.do-g.de" target="_blank" style="display:flex; justify-content:center;">
+    <img src="{{ '/assets/image/dog_logo_blau_freigestellt.png' | relative_url }}"
+         alt="Deutsche Ornithologen-Gesellschaft"
+         style="height:110px; max-width:230px; width:auto;">
+  </a>
 
-<a href="https://otop.org.pl" target="_blank">
-  <img src="{{ '/assets/image/OTOP-logo.png' | relative_url }}"
-       alt="Ogólnopolskie Towarzystwo Ochrony Ptaków"
-       height="110">
-</a>
+  <a href="https://otop.org.pl" target="_blank" style="display:flex; justify-content:center;">
+    <img src="{{ '/assets/image/OTOP-logo.png' | relative_url }}"
+         alt="Ogólnopolskie Towarzystwo Ochrony Ptaków"
+         style="height:110px; max-width:230px; width:auto;">
+  </a>
 
-<a href="https://en.ug.edu.pl" target="_blank">
-  <img src="{{ '/assets/image/UG_logo_RGB_podstawowy_pozytyw_EN.png' | relative_url }}"
-       alt="University of Gdańsk"
-       height="110">
-</a>
-<a href="https://nordicsocietyoikos.org" target="_blank">
-  <img src="{{ '/assets/image/nordic_society_oikos.png' | relative_url }}"
-       alt="Nordic Society Oikos"
-       height="110">
-</a>
+  <a href="https://en.ug.edu.pl" target="_blank" style="display:flex; justify-content:center;">
+    <img src="{{ '/assets/image/UG_logo_RGB_podstawowy_pozytyw_EN.png' | relative_url }}"
+         alt="University of Gdańsk"
+         style="height:110px; max-width:230px; width:auto;">
+  </a>
 
-<a href="http://www.avianbiology.org" target="_blank">
-  <img src="{{ '/assets/image/JAB_logo.jpg' | relative_url }}"
-       alt="Journal of Avian Biology"
-       height="110">
-</a>
+  <a href="https://nordicsocietyoikos.org" target="_blank" style="display:flex; justify-content:center;">
+    <img src="{{ '/assets/image/nordic_society_oikos.png' | relative_url }}"
+         alt="Nordic Society Oikos"
+         style="height:110px; max-width:260px; width:auto;">
+  </a>
+
+  <a href="http://www.avianbiology.org" target="_blank" style="display:flex; justify-content:center;">
+    <img src="{{ '/assets/image/JAB_logo.jpg' | relative_url }}"
+         alt="Journal of Avian Biology"
+         style="height:110px; max-width:260px; width:auto;">
+  </a>
 
 </div>
+
 
 
 
