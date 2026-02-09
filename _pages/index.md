@@ -183,6 +183,17 @@ While the programme (apart from plenary talks) is dedicated to early-career rese
        alt="University of Gdańsk"
        height="110">
 </a>
+<a href="https://nordicsocietyoikos.org" target="_blank">
+  <img src="{{ '/assets/image/nordic_society_oikos.png' | relative_url }}"
+       alt="Nordic Society Oikos"
+       height="110">
+</a>
+
+<a href="http://www.avianbiology.org" target="_blank">
+  <img src="{{ '/assets/image/JAB_logo.jpg' | relative_url }}"
+       alt="Journal of Avian Biology"
+       height="110">
+</a>
 
 </div>
 
