@@ -5,7 +5,7 @@ permalink: /registration/
 ---
 
 # Registration is now open!
-Please note that registration closes on **28 February 2026**, and that the conference administration fee is **170 Polish Złoty (40 euros)**.\
+Please note that registration closes on **28 February 2026**, and that the conference administration fee is **170 Polish Złoty (42 euros)**.\
 📄 **[Register here](https://docs.google.com/forms/d/e/1FAIpQLSeaRfErC_PIpk7Xr8mRCL0BQGfUVBYNSljeSa6-O08sNEuunA/viewform)**
 
 
