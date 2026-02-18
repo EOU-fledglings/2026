@@ -51,7 +51,7 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
   
 ---
 
-# 📄 Conference Materials
+# 📄 Conference Programme and Book of Abstracts
 
 <div style="margin-top: 20px;">
 
