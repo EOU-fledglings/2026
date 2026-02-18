@@ -49,13 +49,29 @@ Carl von Ossietzky University, Oldenburg, Germany (Professor in Ornithology)*
 ## "Blackcap migration – adaptation in time and space"  
 </div>
   
----  
+---
 
-# Programme
+# 📄 Conference Materials
 
-The detailed programme will be available soon!  
-Stay tuned for updates.  
+<div style="margin-top: 20px;">
 
+<p>
+  <a href="{{ '/assets/pdf/Program_EOU_Fledglings_2026.pdf' | relative_url }}" target="_blank" 
+     style="font-size:18px; font-weight:bold;">
+     📅 Download Programme (PDF)
+  </a>
+</p>
+
+<p>
+  <a href="{{ '/assets/pdf/Book_of_Abstracts.pdf' | relative_url }}" target="_blank" 
+     style="font-size:18px; font-weight:bold;">
+     📖 Download Book of Abstracts (PDF)
+  </a>
+</p>
+
+</div>
+
+--- 
 
 ## Follow us on social media
 
