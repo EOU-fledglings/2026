@@ -6,6 +6,10 @@ permalink: /travel/
 
 # Travel Information
 
+## Conference venue
+
+The **EOU Fledglings Meeting 2026** will take place at the **Falculty of Biology of Gdańsk University** (Wydział Biologii Uniwersytetu Gdańskiego), located at ul. Wita Stwosza 59, 80-314 Gdańsk.
+
 ## DO-G Travel Scholarships
 
 The **Deutsche Ornithologen-Gesellschaft (DO-G)** is offering travel scholarships to support participation in the **EOU Fledglings Meeting 2026 in Gdańsk**.
