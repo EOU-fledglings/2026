@@ -8,7 +8,8 @@ permalink: /travel/
 
 ## Conference venue
 
-The **5th EOU Fledglings Meeting** will take place at the **Falculty of Biology of Gdańsk University** (Wydział Biologii Uniwersytetu Gdańskiego), located at ul. Wita Stwosza 59, 80-314 Gdańsk.
+The 5th EOU Fledglings Meeting will take place at the **Falculty of Biology, University of Gdańsk** (Wydział Biologii Uniwersytetu Gdańskiego), located at:\
+ul. Wita Stwosza 59, 80-314 Gdańsk.
 
 ---
 
