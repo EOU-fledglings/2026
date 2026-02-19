@@ -11,7 +11,7 @@ permalink: /travel/
 The 5th EOU Fledglings Meeting will take place at the **Falculty of Biology, University of Gdańsk** (Wydział Biologii Uniwersytetu Gdańskiego), located at:\
 **ul. Wita Stwosza 59, 80-314 Gdańsk**.
 
-The campus is easily accessible by public transport (tram and SKM train, please see details below).
+The campus is easily accessible by public transport (please, see details below).
 
 ---
 
