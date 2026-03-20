@@ -5,6 +5,9 @@ permalink: /Interesting_spots/
 ---
 # Interesting places to visit in free time
 
+[Useful map with reccommendations in Gdańsk](https://www.google.com/maps/d/u/0/viewer?hl=pl&ll=54.35227692462426%2C18.650742907474456&z=15&mid=1YkZQYU4BZR-6VEUKpRwjLmb36Zw2fnQ)
+
+
 ## Ptasi Raj Nature Reserve
 Created in 1959, **Ptasi Raj** (lit. *Birds’ Paradise*) is one of the most important birding spots in Gdańsk — over **200 species** have been observed here, including white-tailed eagle, western marsh harrier, various migratory ducks, geese, waders, gulls, terns, and many songbirds inhabiting the extensive reed beds, such as bearded reedling and common reed bunting. One of the species breeding here is the **common ringed plover**, considered endangered in Poland.  
 While the beach and dunes in the reserve are closed to the public year-round, you can watch birds from **two watchtowers**, located near lakes Karaś and Ptasi Raj.  
