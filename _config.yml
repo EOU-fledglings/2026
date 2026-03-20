@@ -11,7 +11,6 @@ include:
   
 header_pages:
   - _pages/index.md
-  - _pages/registration.md
   - _pages/travel.md
   - _pages/committee.md
   - _pages/programme.md
