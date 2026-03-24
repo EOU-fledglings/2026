@@ -17,15 +17,15 @@ If you are satisfied with the service, we recommend leaving around **10%**.
 
 
 ## 🛍️ Shopping in Poland
-Shops in Poland are generally open **Monday to Saturday**, and many are also open on **trading Sundays** (usually one or two per month).  
+Shops in Poland are generally open Monday to Saturday and closed on Sundays.
+
 Opening hours vary slightly depending on the type of shop:
 
-- 🏪 **Supermarkets:** typically **7:00 a.m. – 9:00 p.m.**, sometimes until **10:00 p.m.**  
-- 🛍️ **Shopping centres:** **9:00 a.m. – 9:00 p.m.**  
-- 🧁 **Small local shops or bakeries:** often open earlier and close later  
+- 🏪 Supermarkets: typically 7:00 a.m. – 9:00 p.m., sometimes until 10:00 p.m.
+- 🛍️ Shopping centres: 9:00 a.m. – 9:00 p.m.
+- 🧁 Small local shops or bakeries: often open earlier and close later
 
-On **non-trading Sundays**, only certain places remain open (such as restaurants, gas stations, bakeries, or small owner-operated stores).
-
+On Sundays, only certain places remain open (such as restaurants, gas stations, bakeries, [Żabka convenience stores](https://en.wikipedia.org/wiki/Żabka_(convenience_store)) or small owner-operated stores).
 
 ## 🗣️ Useful Polish Phrases
 
