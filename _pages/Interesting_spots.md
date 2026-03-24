@@ -33,7 +33,7 @@ Established in 1988, **Beka Nature Reserve** protects coastal meadows, reedbeds,
 The reserve is managed by the **Polish Society for the Protection of Birds (OTOP)** and is equipped with **birdwatching platforms and educational paths**, making it a convenient and rewarding destination for nature enthusiasts.  
 
 **Location:** North of Gdynia, between the villages of Rewa and Osłonino, about *35 km from Gdańsk* and *30 km from the Faculty of Biology*  
-**How to get there:** Take an **PolRegio train** to **Reda** station, then a **bus to Rewa** or **Osłonino**, followed by a walk of approximately **2–3 km** to reach the observation areas.  
+**How to get there:** Take an **PolRegio train** to **Mrzezino** station (about 30 minutes from Gdynia Główna), then take a walk of about 3 km (50 minutes) to reach the observation areas.
 
 [More information here →](https://www.birdingplaces.eu/en/birdingplaces/poland/rezerwat-beka)
 
